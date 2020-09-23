@@ -1,0 +1,1 @@
+follwing example shows how to search particular string between twon defined strings
